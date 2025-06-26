@@ -16,7 +16,7 @@
     "react-dom": "^18.3.1",
     "react-intersection-observer": "^9.5.3",
     "react-parallax-tilt": "^1.7.156",
-    "react-typed": "^1.2.0"
+    "react-typed": "^2.0.12"
   },
   "devDependencies": {
     "@eslint/js": "^9.9.1",
